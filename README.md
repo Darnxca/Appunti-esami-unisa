@@ -20,7 +20,7 @@
 | ETC | Corso tenuto dalla prof.ssa Gargano | [etc]
 | Calcolo scientifico | Corso tenuto dalla prof.ssa Daiana Conte | [calcolo]
 | Programmazione avanza | Corso tenuto dalla prof.ssa De Bonis | [pav]
-| Ricerca operativa | Corso tenuto dal prof Francesco CArrabs | [ro]
+| Ricerca operativa | Corso tenuto dal prof Francesco Carrabs | [ro]
 
 #
 #
@@ -34,7 +34,7 @@
 | Metodi numerici per l'informatuca |  Corso tenuto dalla prof.ssa Cardone | [metodi],[codici] 
 
 [metodi]: <https://github.com/Darnxca/Appunti-esami-unisa/blob/main/Laurea%20magistrale%20in%20informatica/Metodi%20numerici%20per%20l'informatica/Metodi%20numerici.pdf>
-[codic]: <https://github.com/Darnxca/Appunti-esami-unisa/tree/main/Laurea%20magistrale%20in%20informatica/Metodi%20numerici%20per%20l'informatica/Codici>
+[codici]: <https://github.com/Darnxca/Appunti-esami-unisa/tree/main/Laurea%20magistrale%20in%20informatica/Metodi%20numerici%20per%20l'informatica/Codici>
 
 [etc]: <https://github.com/Darnxca/Appunti-esami-unisa/blob/main/Laurea%20triennale%20in%20informatica/3%C2%B0anno/2%C2%B0semestre/ETC%20-%20Elementi%20della%20teoria%20della%20computazione.pdf>
 [calcolo]: <https://github.com/Darnxca/Appunti-esami-unisa/blob/main/Laurea%20triennale%20in%20informatica/3%C2%B0anno/2%C2%B0semestre/Calcolo%20Scientifico.pdf>
