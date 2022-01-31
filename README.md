@@ -2,7 +2,7 @@
 ### Appunti dei vari corsi universitari che ho seguito all'università degli studi di salerno laurea in informatica
 
 
-##### Appunti laurea triennale
+##### laurea triennale (terminata)
 #
 
 | Corso di studi | Note | Link
