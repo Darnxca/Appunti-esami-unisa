@@ -1,5 +1,5 @@
 # Appunti-esami-unisa
-### Appunti dei vari corsi universitari che ho seguito all'università degli studi di salerno laurea in informatica
+### Appunti dei vari corsi seguiti ad informatica all'università degli studi di Salerno 
 
 
 ##### laurea triennale (terminata)
