@@ -32,6 +32,11 @@
 | Corso di studi | Note | Link
 | ------ | ------ |  ------ |
 | Metodi numerici per l'informatuca |  Corso tenuto dalla prof.ssa Cardone | [metodi],[codici] 
+| Programmazione Sicura  |  Corso tenuto dalla prof.ssa Masucci | [sicura],[sicuraSfide] 
+
+
+[sicura]: <https://github.com/Darnxca/Appunti-esami-unisa/blob/main/Laurea%20magistrale%20in%20informatica/Metodi%20numerici%20per%20l'informatica/Programmazione_sicura.pdf>
+[sicuraSfide]:<https://github.com/Darnxca/Appunti-esami-unisa/blob/main/Laurea%20magistrale%20in%20informatica/Metodi%20numerici%20per%20l'informatica/Sicura_esame.pdf>
 
 [metodi]: <https://github.com/Darnxca/Appunti-esami-unisa/blob/main/Laurea%20magistrale%20in%20informatica/Metodi%20numerici%20per%20l'informatica/Metodi%20numerici.pdf>
 [codici]: <https://github.com/Darnxca/Appunti-esami-unisa/tree/main/Laurea%20magistrale%20in%20informatica/Metodi%20numerici%20per%20l'informatica/Codici>
