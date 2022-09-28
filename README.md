@@ -34,6 +34,9 @@
 | Metodi numerici per l'informatuca |  Corso tenuto dalla prof.ssa Cardone | [metodi],[codici] 
 | Programmazione Sicura  |  Corso tenuto dalla prof.ssa Masucci | [sicura],[sicuraSfide] 
 | Penetration testing  |  Corso tenuto dal prof Castiglione  | [penetrationtesting],[progetto] 
+| Digital forensics | Corso tenuto dal prof Pizzolante | [digital]
+
+[digital]:<https://github.com/Darnxca/Appunti-esami-unisa/blob/main/Laurea%20magistrale%20in%20informatica/Metodi%20numerici%20per%20l'informatica/Digital_Forensics.pdf>
 
 [penetrationtesting]:<https://github.com/Darnxca/Appunti-esami-unisa/blob/main/Laurea%20magistrale%20in%20informatica/Metodi%20numerici%20per%20l'informatica/Penetration_Testing.pdf>
 [progetto]: <https://github.com/Darnxca/The-planets-Earth>
