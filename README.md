@@ -38,8 +38,8 @@
 | Compilatori | Corso tenuto dal prof Costagliola | [compilatori],[progettoComp]
 
 
-[compilatori]:<https://github.com/Darnxca/Appunti-esami-unisa/blob/main/Laurea%20magistrale%20in%20informatica/Penetration_Testing.pdf>
-[progettoComp]: <https://github.com/Darnxca/The-planets-Earth>
+[compilatori]:<https://github.com/Darnxca/Appunti-esami-unisa/blob/main/Laurea%20magistrale%20in%20informatica/COOOOOOMPIILATOOOORIIII.pdf>
+[progettoComp]: <https://github.com/Darnxca/NewLang-compiler>
 
 [digital]:<https://github.com/Darnxca/Appunti-esami-unisa/blob/main/Laurea%20magistrale%20in%20informatica/Digital_Forensics.pdf>
 
