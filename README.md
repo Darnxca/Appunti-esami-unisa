@@ -32,7 +32,7 @@
 | Corso di studi | Note | Link
 | ------ | ------ |  ------ |
 | Metodi numerici per l'informatuca |  Corso tenuto dalla prof.ssa Cardone | [metodi],[codici] 
-| Programmazione Sicura  |  Corso tenuto dalla prof.ssa Masucci | [sicura],[sicuraSfide] 
+| Programmazione Sicura  |  Corso tenuto dalla prof.ssa Masucci | [sicura],[sicuraSfide], [progettoSicura] 
 | Penetration testing  |  Corso tenuto dal prof Castiglione  | [penetrationtesting],[progetto] 
 | Digital forensics | Corso tenuto dal prof Pizzolante | [digital]
 | Compilatori | Corso tenuto dal prof Costagliola | [compilatori],[progettoComp]
@@ -48,6 +48,7 @@
 
 [sicura]: <https://github.com/Darnxca/Appunti-esami-unisa/blob/main/Laurea%20magistrale%20in%20informatica/Programmazione_sicura.pdf>
 [sicuraSfide]:<https://github.com/Darnxca/Appunti-esami-unisa/blob/main/Laurea%20magistrale%20in%20informatica/Sicura_esame.pdf>
+[progettoSicura]: <https://github.com/Darnxca/Appunti-esami-unisa/blob/main/Laurea%20magistrale%20in%20informatica/Presentazione_Programmazione_Sicura.pptx>
 
 [metodi]: <https://github.com/Darnxca/Appunti-esami-unisa/blob/main/Laurea%20magistrale%20in%20informatica/Metodi%20numerici%20per%20l'informatica/Metodi%20numerici.pdf>
 [codici]: <https://github.com/Darnxca/Appunti-esami-unisa/tree/main/Laurea%20magistrale%20in%20informatica/Metodi%20numerici%20per%20l'informatica/Codici>
