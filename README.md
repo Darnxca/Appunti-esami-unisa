@@ -39,12 +39,11 @@
 | Compressione Dati | Corso tenuto dal prof Carpentieri | [compressione],[progettoCompress]
 
 
-[compressione]:<https://github.com/Darnxca/Appunti-esami-unisa/blob/main/
-Laurea%20magistrale%20in%20informatica/COOOOOOMPIILATOOOORIIII.pdf>
-[progettoCompress]: <https://github.com/Darnxca/NewLang-compiler>
+[compressione]:<https://github.com/Darnxca/Appunti-esami-unisa/blob/main/Laurea%20magistrale%20in%20informatica/Compressione_Dati.pdf>
+[progettoCompress]: <https://github.com/Darnxca/MyStego>
 
 [compilatori]:<https://github.com/Darnxca/Appunti-esami-unisa/blob/main/Laurea%20magistrale%20in%20informatica/COOOOOOMPIILATOOOORIIII.pdf>
-[progettoComp]: <https://github.com/Darnxca/MyStego>
+[progettoComp]: <https://github.com/Darnxca/NewLang-compiler>
 
 [digital]:<https://github.com/Darnxca/Appunti-esami-unisa/blob/main/Laurea%20magistrale%20in%20informatica/Digital_Forensics.pdf>
 
