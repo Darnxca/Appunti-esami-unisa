@@ -37,7 +37,11 @@
 | Digital forensics | Corso tenuto dal prof Pizzolante | [digital]
 | Compilatori | Corso tenuto dal prof Costagliola | [compilatori],[progettoComp]
 | Compressione Dati | Corso tenuto dal prof Carpentieri | [compressione],[progettoCompress]
+| Sicurezza dei Dati | Corso tenuto dal prof ChristianCarmine Esposito | [SicurezzaDati],[sicurezzaDatiProgetto]
 
+
+[SicurezzaDati]: <https://github.com/Darnxca/Appunti-esami-unisa/blob/main/Laurea%20magistrale%20in%20informatica/Sicurezza%20dei%20dati.pdf>
+[sicurezzaDatiProgetto]: <https://github.com/mattdr5/E-Voting>
 
 [compressione]:<https://github.com/Darnxca/Appunti-esami-unisa/blob/main/Laurea%20magistrale%20in%20informatica/Compressione_Dati.pdf>
 [progettoCompress]: <https://github.com/Darnxca/MyStego>
