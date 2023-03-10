@@ -36,10 +36,15 @@
 | Penetration testing  |  Corso tenuto dal prof Castiglione  | [penetrationtesting],[progetto] 
 | Digital forensics | Corso tenuto dal prof Pizzolante | [digital]
 | Compilatori | Corso tenuto dal prof Costagliola | [compilatori],[progettoComp]
+| Compressione Dati | Corso tenuto dal prof Carpentieri | [compressione],[progettoCompress]
 
+
+[compressione]:<https://github.com/Darnxca/Appunti-esami-unisa/blob/main/
+Laurea%20magistrale%20in%20informatica/COOOOOOMPIILATOOOORIIII.pdf>
+[progettoCompress]: <https://github.com/Darnxca/NewLang-compiler>
 
 [compilatori]:<https://github.com/Darnxca/Appunti-esami-unisa/blob/main/Laurea%20magistrale%20in%20informatica/COOOOOOMPIILATOOOORIIII.pdf>
-[progettoComp]: <https://github.com/Darnxca/NewLang-compiler>
+[progettoComp]: <https://github.com/Darnxca/MyStego>
 
 [digital]:<https://github.com/Darnxca/Appunti-esami-unisa/blob/main/Laurea%20magistrale%20in%20informatica/Digital_Forensics.pdf>
 
