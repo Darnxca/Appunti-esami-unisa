@@ -37,8 +37,11 @@
 | Digital forensics | Corso tenuto dal prof Pizzolante | [digital]
 | Compilatori | Corso tenuto dal prof Costagliola | [compilatori],[progettoComp]
 | Compressione Dati | Corso tenuto dal prof Carpentieri | [compressione],[progettoCompress]
-| Sicurezza dei Dati | Corso tenuto dal prof ChristianCarmine Esposito | [SicurezzaDati],[sicurezzaDatiProgetto]
+| Sicurezza dei Dati | Corso tenuto dal prof ChristianCarmine Esposito | [SicurezzaDati],[sicurezzaDatiProgetto],
+| Biometria | Corso tenuto dal prof Nappi | [Biometria],[BiometriaProgetto]
 
+[Biometria]: <https://github.com/Darnxca/Appunti-esami-unisa/blob/main/Laurea%20magistrale%20in%20informatica/Biometria.pdf>
+[BiometriaProgetto]: <https://github.com/Darnxca/BABELE-Riconoscimento-multilingua-senza-audio-tramite-PNN>
 
 [SicurezzaDati]: <https://github.com/Darnxca/Appunti-esami-unisa/blob/main/Laurea%20magistrale%20in%20informatica/Sicurezza%20dei%20dati.pdf>
 [sicurezzaDatiProgetto]: <https://github.com/mattdr5/E-Voting>
