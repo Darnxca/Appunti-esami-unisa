@@ -39,6 +39,11 @@
 | Compressione Dati | Corso tenuto dal prof Carpentieri | [compressione],[progettoCompress]
 | Sicurezza dei Dati | Corso tenuto dal prof ChristianCarmine Esposito | [SicurezzaDati],[sicurezzaDatiProgetto],
 | Biometria | Corso tenuto dal prof Nappi | [Biometria],[BiometriaProgetto]
+| Elementi di crittografia | Corso tenuto dal prof Paolo D'Arco | [CrittografiaAppunti],[CrittografiaDomande]
+
+[CrittografiaAppunti]: <https://github.com/Darnxca/Appunti-esami-unisa/blob/main/Laurea%20magistrale%20in%20informatica/Biometria.pdf>
+
+[CrittografiaDomande]: <https://github.com/Darnxca/Appunti-esami-unisa/blob/main/Laurea%20magistrale%20in%20informatica/Biometria.pdf>
 
 [Biometria]: <https://github.com/Darnxca/Appunti-esami-unisa/blob/main/Laurea%20magistrale%20in%20informatica/Biometria.pdf>
 [BiometriaProgetto]: <https://github.com/Darnxca/BABELE-Riconoscimento-multilingua-senza-audio-tramite-PNN>
