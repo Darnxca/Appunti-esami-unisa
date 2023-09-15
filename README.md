@@ -10,7 +10,7 @@
 | Analisi matematica |  Corso tenuto dal prof Elmo di benedetto | [analisi]
 | Mmi | Metodi matematici tenuto dalla prof.ssa Adele Resigno | [mmi]
 | Strutture Dati | Corso tenuto dai prof Deufemia e De lucia, sono presenti anche i codici delle strutture dati | [Appunti_e_codici_strutture_dati]
-| Sistemi operativi | Corso tenuto dalla prof.ssa Adele Resigno e Andrea Abate, sono presenti solo le formule dei vari esercizi  | [so]
+| Sistemi operativi | Corso tenuto dalla prof.ssa Adele Resigno e Andrea Abate, sono presenti solo le formule dei vari esercizi  | [formule]
 | CPSM | Corso tenuto dalla prof.ssa Martinucci | [CPSM]
 | Reti di calcolatori | corso tenuto dal prof Francesco Palmieri | [reti]
 | Progettazione algoritmi | Corso tenuto dalla prof.ssa Marcella Anselmo | [algoritmi]
@@ -80,7 +80,7 @@
 [analisi]: <https://github.com/Darnxca/Appunti-esami-unisa/blob/main/Laurea%20triennale%20in%20informatica/1%C2%B0anno/2%C2%B0semestre/Analisi%20matematica.pdf>
 [mmi]: <https://github.com/Darnxca/Appunti-esami-unisa/blob/main/Laurea%20triennale%20in%20informatica/1%C2%B0anno/2%C2%B0semestre/Metodi%20matematic%20per%20l'informatica.pdf>
 [Appunti_e_codici_strutture_dati]: <https://github.com/Darnxca/Appunti-esami-unisa/tree/main/Laurea%20triennale%20in%20informatica/1%C2%B0anno/2%C2%B0semestre/Strutture%20Dati>
-[so]: <https://github.com/Darnxca/Appunti-esami-unisa/blob/main/Laurea%20triennale%20in%20informatica/2%C2%B0anno/Formule%20sistemi%20operativi.pdf>
+[formule]: <https://github.com/Darnxca/Appunti-esami-unisa/blob/main/Laurea%20triennale%20in%20informatica/2%C2%B0anno/Formule%20sistemi%20operativi.pdf>
 [CPSM]: <https://github.com/Darnxca/Appunti-esami-unisa/blob/main/Laurea%20triennale%20in%20informatica/2%C2%B0anno/2%C2%B0semestre/Calcolo%20delle%20probabilit%C3%A0%20e%20statistica%20matematica.pdf>
 [reti]: <https://github.com/Darnxca/Appunti-esami-unisa/blob/main/Laurea%20triennale%20in%20informatica/2%C2%B0anno/2%C2%B0semestre/Reti%20di%20calcolatori.pdf>
 [algoritmi]: <https://github.com/Darnxca/Appunti-esami-unisa/blob/main/Laurea%20triennale%20in%20informatica/2%C2%B0anno/2%C2%B0semestre/Progettazione%20di%20algoritmi.pdf>
