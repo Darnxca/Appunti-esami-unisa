@@ -1,5 +1,5 @@
 # Appunti-esami-unisa
-### Appunti dei vari corsi seguiti ad informatica all'università degli studi di Salerno 
+### Appunti dei corsi della laurea triennale e magistrale  d'informatica all'università degli studi di Salerno 
 
 
 ##### laurea triennale (terminata)
@@ -41,9 +41,9 @@
 | Biometria | Corso tenuto dal prof Nappi | [Biometria],[BiometriaProgetto]
 | Elementi di crittografia | Corso tenuto dal prof Paolo D'Arco | [CrittografiaAppunti],[CrittografiaDomande]
 
-[CrittografiaAppunti]: <https://github.com/Darnxca/Appunti-esami-unisa/blob/main/Laurea%20magistrale%20in%20informatica/Biometria.pdf>
+[CrittografiaAppunti]: <https://github.com/Darnxca/Appunti-esami-unisa/blob/main/Laurea%20magistrale%20in%20informatica/Appunti%20elementi%20di%20crittografia.pdf>
 
-[CrittografiaDomande]: <https://github.com/Darnxca/Appunti-esami-unisa/blob/main/Laurea%20magistrale%20in%20informatica/Biometria.pdf>
+[CrittografiaDomande]: <https://github.com/Darnxca/Appunti-esami-unisa/blob/main/Laurea%20magistrale%20in%20informatica/Domande%20elementi%20di%20crittografia.pdf>
 
 [Biometria]: <https://github.com/Darnxca/Appunti-esami-unisa/blob/main/Laurea%20magistrale%20in%20informatica/Biometria.pdf>
 [BiometriaProgetto]: <https://github.com/Darnxca/BABELE-Riconoscimento-multilingua-senza-audio-tramite-PNN>
