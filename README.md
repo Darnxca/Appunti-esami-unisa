@@ -40,6 +40,11 @@
 | Sicurezza dei Dati | Corso tenuto dal prof ChristianCarmine Esposito | [SicurezzaDati],[sicurezzaDatiProgetto],
 | Biometria | Corso tenuto dal prof Nappi | [Biometria],[BiometriaProgetto]
 | Elementi di crittografia | Corso tenuto dal prof Paolo D'Arco | [CrittografiaAppunti],[CrittografiaDomande]
+| Interactive system design | Corso tenuto dal prof Vittorio Fuccella | [AppuntiSystem],[ProgettoSystem]
+
+[AppuntiSystem]:
+
+[ProgettoSystem]: <https://github.com/Darnxca/Form-interaction-through-Speech-Recognition>
 
 [CrittografiaAppunti]: <https://github.com/Darnxca/Appunti-esami-unisa/blob/main/Laurea%20magistrale%20in%20informatica/Appunti%20elementi%20di%20crittografia.pdf>
 
