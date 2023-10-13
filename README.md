@@ -42,7 +42,7 @@
 | Elementi di crittografia | Corso tenuto dal prof Paolo D'Arco | [CrittografiaAppunti],[CrittografiaDomande]
 | Interactive system design | Corso tenuto dal prof Vittorio Fuccella | [AppuntiSystem],[ProgettoSystem]
 
-[AppuntiSystem]:
+[AppuntiSystem]: <https://github.com/Darnxca/Appunti-esami-unisa/blob/main/Laurea%20magistrale%20in%20informatica/System_Design.pdf>
 
 [ProgettoSystem]: <https://github.com/Darnxca/Form-interaction-through-Speech-Recognition>
 
