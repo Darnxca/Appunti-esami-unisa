@@ -26,7 +26,7 @@
 #
 #
 
-##### laurea magistrale (in corso)
+##### laurea magistrale (terminata)
 #
 
 | Corso di studi | Note | Link
