@@ -15,7 +15,7 @@
 | Reti di calcolatori | corso tenuto dal prof Francesco Palmieri | [reti]
 | Progettazione algoritmi | Corso tenuto dalla prof.ssa Marcella Anselmo | [algoritmi]
 | Ingengeria del software | Corso tenuto dalla prof.ssa Filomena Ferrucci | [is] , [euristiche]
-| Ingengeria del software di  | Corso tenuto dalla prof.ssa Ferrucci e dal prof. Palomba| [is_appunti_ordinati]
+| Ingengeria del software di [mattdr5] (2022) | Corso tenuto dalla prof.ssa Ferrucci e dal prof. Palomba| [is_appunti_ordinati]
 | Mobile programming | Corso tenuto dal prof Roberto De Prisco | [android]
 | Programmazione distribuita | Corso tenuto dalla prof.ssa Delfina Malandrino | [pd]
 | ETC | Corso tenuto dalla prof.ssa Gargano | [etc]
@@ -75,12 +75,13 @@
 [metodi]: <https://github.com/Darnxca/Appunti-esami-unisa/blob/main/Laurea%20magistrale%20in%20informatica/Metodi%20numerici%20per%20l'informatica/Metodi%20numerici.pdf>
 [codici]: <https://github.com/Darnxca/Appunti-esami-unisa/tree/main/Laurea%20magistrale%20in%20informatica/Metodi%20numerici%20per%20l'informatica/Codici>
 
+[mattdr5]: <https://github.com/mattdr5>
 [etc]: <https://github.com/Darnxca/Appunti-esami-unisa/blob/main/Laurea%20triennale%20in%20informatica/3%C2%B0anno/2%C2%B0semestre/ETC%20-%20Elementi%20della%20teoria%20della%20computazione.pdf>
 [calcolo]: <https://github.com/Darnxca/Appunti-esami-unisa/blob/main/Laurea%20triennale%20in%20informatica/3%C2%B0anno/2%C2%B0semestre/Calcolo%20Scientifico.pdf>
 [pav]: <https://github.com/Darnxca/Appunti-esami-unisa/blob/main/Laurea%20triennale%20in%20informatica/3%C2%B0anno/2%C2%B0semestre/Programmazione%20avanzata.pdf>
 [ro]: <https://github.com/Darnxca/Appunti-esami-unisa/blob/main/Laurea%20triennale%20in%20informatica/3%C2%B0anno/2%C2%B0semestre/Ricerca%20operativa.pdf>
 [is]: <https://github.com/Darnxca/Appunti-esami-unisa/blob/main/Laurea%20triennale%20in%20informatica/3%C2%B0anno/1%C2%B0semestre/Ingegneria%20del%20software.pdf>
-[is_appunti_ordinati]: <>
+[is_appunti_ordinati]: <https://github.com/Darnxca/Appunti-esami-unisa/blob/main/Laurea%20triennale%20in%20informatica/3%C2%B0anno/1%C2%B0semestre/La%20Bibbia%20Sbagliata%20di%20IS.pdf>
 [euristiche]: <https://github.com/Darnxca/Appunti-esami-unisa/blob/main/Laurea%20triennale%20in%20informatica/3%C2%B0anno/1%C2%B0semestre/Euristiche%20-%20Ingegneria%20del%20software.pdf>
 [android]: <https://github.com/Darnxca/Appunti-esami-unisa/blob/main/Laurea%20triennale%20in%20informatica/3%C2%B0anno/1%C2%B0semestre/Mobile%20programming.pdf>
 [pd]: <https://github.com/Darnxca/Appunti-esami-unisa/blob/main/Laurea%20triennale%20in%20informatica/3%C2%B0anno/1%C2%B0semestre/Programmazione%20Distribuita.pdf>
