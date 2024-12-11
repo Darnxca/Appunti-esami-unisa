@@ -14,7 +14,8 @@
 | CPSM | Corso tenuto dalla prof.ssa Martinucci | [CPSM]
 | Reti di calcolatori | corso tenuto dal prof Francesco Palmieri | [reti]
 | Progettazione algoritmi | Corso tenuto dalla prof.ssa Marcella Anselmo | [algoritmi]
-| Ingengeria del software | Corso tenuto dalla prof.ssa  Filomena Ferrucci | [is] , [euristiche]
+| Ingengeria del software | Corso tenuto dalla prof.ssa Filomena Ferrucci | [is] , [euristiche]
+| Ingengeria del software di  | Corso tenuto dalla prof.ssa Ferrucci e dal prof. Palomba| [is_appunti_ordinati]
 | Mobile programming | Corso tenuto dal prof Roberto De Prisco | [android]
 | Programmazione distribuita | Corso tenuto dalla prof.ssa Delfina Malandrino | [pd]
 | ETC | Corso tenuto dalla prof.ssa Gargano | [etc]
@@ -79,6 +80,7 @@
 [pav]: <https://github.com/Darnxca/Appunti-esami-unisa/blob/main/Laurea%20triennale%20in%20informatica/3%C2%B0anno/2%C2%B0semestre/Programmazione%20avanzata.pdf>
 [ro]: <https://github.com/Darnxca/Appunti-esami-unisa/blob/main/Laurea%20triennale%20in%20informatica/3%C2%B0anno/2%C2%B0semestre/Ricerca%20operativa.pdf>
 [is]: <https://github.com/Darnxca/Appunti-esami-unisa/blob/main/Laurea%20triennale%20in%20informatica/3%C2%B0anno/1%C2%B0semestre/Ingegneria%20del%20software.pdf>
+[is_appunti_ordinati]: <>
 [euristiche]: <https://github.com/Darnxca/Appunti-esami-unisa/blob/main/Laurea%20triennale%20in%20informatica/3%C2%B0anno/1%C2%B0semestre/Euristiche%20-%20Ingegneria%20del%20software.pdf>
 [android]: <https://github.com/Darnxca/Appunti-esami-unisa/blob/main/Laurea%20triennale%20in%20informatica/3%C2%B0anno/1%C2%B0semestre/Mobile%20programming.pdf>
 [pd]: <https://github.com/Darnxca/Appunti-esami-unisa/blob/main/Laurea%20triennale%20in%20informatica/3%C2%B0anno/1%C2%B0semestre/Programmazione%20Distribuita.pdf>
