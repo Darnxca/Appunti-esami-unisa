@@ -41,7 +41,7 @@
 | Sicurezza dei Dati | Corso tenuto dal prof ChristianCarmine Esposito | [SicurezzaDati],[sicurezzaDatiProgetto],
 | Biometria | Corso tenuto dal prof Nappi | [Biometria],[BiometriaProgetto]
 | Elementi di crittografia | Corso tenuto dal prof Paolo D'Arco | [CrittografiaAppunti],[CrittografiaDomande]
-| Interactive system design | Corso tenuto dal prof Vittorio Fuccella | [AppuntiSystem],[ProgettoSystem]
+| Interactive system design | Corso tenuto dal prof Vittorio Fuccella | [AppuntiSystem],[ProgettoSystem] [DomandeEsame]
 
 [AppuntiSystem]: <https://github.com/Darnxca/Appunti-esami-unisa/blob/main/Laurea%20magistrale%20in%20informatica/System_Design.pdf>
 
@@ -92,3 +92,4 @@
 [CPSM]: <https://github.com/Darnxca/Appunti-esami-unisa/blob/main/Laurea%20triennale%20in%20informatica/2%C2%B0anno/2%C2%B0semestre/Calcolo%20delle%20probabilit%C3%A0%20e%20statistica%20matematica.pdf>
 [reti]: <https://github.com/Darnxca/Appunti-esami-unisa/blob/main/Laurea%20triennale%20in%20informatica/2%C2%B0anno/2%C2%B0semestre/Reti%20di%20calcolatori.pdf>
 [algoritmi]: <https://github.com/Darnxca/Appunti-esami-unisa/blob/main/Laurea%20triennale%20in%20informatica/2%C2%B0anno/2%C2%B0semestre/Progettazione%20di%20algoritmi.pdf>
+[DomandeEsame]: <https://github.com/Darnxca/Appunti-esami-unisa/blob/main/Laurea%20magistrale%20in%20informatica/Domande%20ISD%20.pdf>
