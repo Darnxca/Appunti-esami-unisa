@@ -33,7 +33,7 @@
 | Corso di studi | Note | Link
 | ------ | ------ |  ------ |
 | Metodi numerici per l'informatuca |  Corso tenuto dalla prof.ssa Cardone | [metodi],[codici] 
-| Programmazione Sicura  |  Corso tenuto dalla prof.ssa Masucci | [sicura],[sicuraSfide], [progettoSicura] 
+| Programmazione Sicura  |  Corso tenuto dalla prof.ssa Masucci | [sicura],[sicuraSfide], [progettoSicura], [sicura_appunti_matteo_della_rocca] 
 | Penetration testing  |  Corso tenuto dal prof Castiglione  | [penetrationtesting],[progetto] 
 | Digital forensics | Corso tenuto dal prof Pizzolante | [digital]
 | Compilatori | Corso tenuto dal prof Costagliola | [compilatori],[progettoComp]
@@ -43,6 +43,7 @@
 | Elementi di crittografia | Corso tenuto dal prof Paolo D'Arco | [CrittografiaAppunti],[CrittografiaDomande]
 | Interactive system design | Corso tenuto dal prof Vittorio Fuccella | [AppuntiSystem],[ProgettoSystem] [DomandeEsame]
 
+[sicura_appunti_matteo_della_rocca]: <https://github.com/Darnxca/Appunti-esami-unisa/blob/main/Laurea%20magistrale%20in%20informatica/Sicura_esame_matteo_della_rocca.pdf>
 [AppuntiSystem]: <https://github.com/Darnxca/Appunti-esami-unisa/blob/main/Laurea%20magistrale%20in%20informatica/System_Design.pdf>
 
 [ProgettoSystem]: <https://github.com/Darnxca/Form-interaction-through-Speech-Recognition>
